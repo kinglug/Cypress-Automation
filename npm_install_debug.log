@@ -1,0 +1,64 @@
+npm verb cli /Users/duytran/.nvm/versions/node/v18.13.0/bin/node /Users/duytran/.nvm/versions/node/v18.13.0/bin/npm
+npm info using npm@8.19.3
+npm info using node@v18.13.0
+npm timing npm:load:whichnode Completed in 0ms
+npm timing config:load:defaults Completed in 1ms
+npm timing config:load:file:/Users/duytran/.nvm/versions/node/v18.13.0/lib/node_modules/npm/npmrc Completed in 0ms
+npm timing config:load:builtin Completed in 0ms
+npm timing config:load:cli Completed in 0ms
+npm timing config:load:env Completed in 1ms
+npm timing config:load:file:/Users/duytran/Desktop/mavishub-web/tmpBstackPackages/.npmrc Completed in 0ms
+npm timing config:load:project Completed in 4ms
+npm timing config:load:file:/Users/duytran/.npmrc Completed in 0ms
+npm timing config:load:user Completed in 0ms
+npm timing config:load:file:/Users/duytran/.nvm/versions/node/v18.13.0/etc/npmrc Completed in 0ms
+npm timing config:load:global Completed in 0ms
+npm timing config:load:validate Completed in 0ms
+npm timing config:load:credentials Completed in 1ms
+npm timing config:load:setEnvs Completed in 0ms
+npm timing config:load Completed in 8ms
+npm timing npm:load:configload Completed in 8ms
+npm timing npm:load:mkdirpcache Completed in 1ms
+npm timing npm:load:mkdirplogs Completed in 0ms
+npm verb title npm install
+npm verb argv "install" "--legacy-peer-deps" "--loglevel" "verbose"
+npm timing npm:load:setTitle Completed in 5ms
+npm timing config:load:flatten Completed in 1ms
+npm timing npm:load:display Completed in 3ms
+npm verb logfile logs-max:10 dir:/Users/duytran/.npm/_logs
+npm verb logfile /Users/duytran/.npm/_logs/2023-08-18T04_44_44_686Z-debug-0.log
+npm timing npm:load:logFile Completed in 2ms
+npm timing npm:load:timers Completed in 0ms
+npm timing npm:load:configScope Completed in 0ms
+npm timing npm:load Completed in 19ms
+npm timing arborist:ctor Completed in 1ms
+npm timing arborist:ctor Completed in 0ms
+npm timing idealTree:init Completed in 5ms
+npm timing idealTree:userRequests Completed in 0ms
+npm timing idealTree:#root Completed in 0ms
+npm timing idealTree:buildDeps Completed in 0ms
+npm timing idealTree:fixDepFlags Completed in 0ms
+npm timing idealTree Completed in 6ms
+npm timing reify:loadTrees Completed in 6ms
+npm timing reify:diffTrees Completed in 0ms
+npm timing reify:retireShallow Completed in 1ms
+npm timing reify:createSparse Completed in 0ms
+npm timing reify:loadBundles Completed in 0ms
+npm timing reify:audit Completed in 0ms
+npm timing reify:unpack Completed in 0ms
+npm timing reify:unretire Completed in 0ms
+npm timing build:queue Completed in 0ms
+npm timing build:deps Completed in 1ms
+npm timing build Completed in 1ms
+npm timing reify:build Completed in 1ms
+npm timing reify:trash Completed in 0ms
+npm timing reify:save Completed in 1ms
+npm timing reify Completed in 12ms
+
+up to date, audited 1 package in 68ms
+
+found 0 vulnerabilities
+npm timing command:install Completed in 14ms
+npm verb exit 0
+npm timing npm Completed in 69ms
+npm info ok 
